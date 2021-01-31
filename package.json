@@ -1,0 +1,27 @@
+{
+  "name": "webrtc-demos",
+  "version": "0.0.0",
+  "description": "Exploring and testing WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node demos"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/webrtc-demos.git"
+  },
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/sec-data/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
